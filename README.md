@@ -85,12 +85,6 @@ This project focuses on end-to-end analysis of solar power plant performance usi
 **Arpit Sindhu**  
 Data Analyst | Renewable Energy (Solar & Wind) ⚡  
 
-🔗 LinkedIn: https://linkedin.com/in/arpitsindhu5772
-<p align="center">
-<a href="https://linkedin.com/in/arpitsindhu5772" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Arpit%20Sindhu-blue?style=for-the-badge&logo=linkedin">
-</a>
-</p>
 ## 📬 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/arpitsindhu5772" target="_blank">
