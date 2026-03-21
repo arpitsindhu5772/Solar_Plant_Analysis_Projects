@@ -4,7 +4,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=mysql)
 ![SCADA](https://img.shields.io/badge/SCADA-Data-green?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-Reporting-darkgreen?style=for-the-badge&logo=microsoft-excel)
+![Advance Excel](https://img.shields.io/badge/Excel-Reporting-darkgreen?style=for-the-badge&logo=microsoft-excel)
 
 ---
 
