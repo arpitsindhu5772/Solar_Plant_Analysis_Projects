@@ -96,3 +96,6 @@ Data Analyst | Renewable Energy (Solar & Wind) ⚡
 ---
 
 ### ⭐ From [arpitsindhu5772](https://github.com/arpitsindhu5772)
+---
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitsindhu5772)
+---
