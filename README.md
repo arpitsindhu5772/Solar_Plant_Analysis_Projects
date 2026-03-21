@@ -27,7 +27,6 @@ This project focuses on end-to-end analysis of solar power plant performance usi
 ### 🔎 String-Level Analysis
 - String-wise comparison
 - Detection of faulty/low-performing strings
-- DC performance evaluation
 
 ### 🌤️ Irradiance vs Generation Benchmarking
 - Expected vs actual generation comparison
