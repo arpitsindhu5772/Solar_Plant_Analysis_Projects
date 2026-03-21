@@ -66,8 +66,9 @@ This project focuses on end-to-end analysis of solar power plant performance usi
 
 ## 🛠️ Tools & Technologies
 - 🐍 Python (Pandas, NumPy, Matplotlib)
+- 🗄️ SQL
 - 📊 Power BI
-- 📑 Excel
+- 📑 Advanced Excel
 - ⚙️ SCADA Systems
 
 ---
